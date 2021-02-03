@@ -6,8 +6,9 @@ Full Screen Mode.
 
 Phone Mode.
 
-![phone](https://user-images.githubusercontent.com/76527313/105638021-2df4be00-5e79-11eb-8ae0-f4d31a7c1d18.JPG)
+![Phone Mode](https://user-images.githubusercontent.com/76527313/106771273-749ba280-6647-11eb-8211-9c49a1cabb9b.JPG)
+
 
 Tablet Mode.
 
-![tablet](https://user-images.githubusercontent.com/76527313/105638024-2fbe8180-5e79-11eb-86ba-7a1e2d103ff7.JPG)
+![Tablet Mode](https://user-images.githubusercontent.com/76527313/106771270-72d1df00-6647-11eb-92cc-133b6510257f.JPG)
